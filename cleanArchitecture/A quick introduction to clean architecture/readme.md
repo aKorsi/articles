@@ -1,8 +1,18 @@
+<div dir="rtl">
+
 # [معرفی سریع معماری تمیز](https://github.com/Createdd/Writing/blob/master/2018/articles/CleanA.md)
+
+<div dir="ltr">
 
 ###### by Daniel Deutsch
 
+</div>
+
+<center>
+
 ![معماری تمیز](./0_vIfjwJFIvgfyghgD.jpg)
+
+</center>
 
 در یک پروژه اپن سورس شروع به همکاری کردم ، که در آن معماری تمیز آورده شده بود.
 
@@ -24,11 +34,16 @@
 
 من فکر میکنم همیشه خوبه که شروع کنیم با کمی تصویر.  
 در اینجا عمومی ترین تصویر از این مفهم آورده شده.  
+
+<center>
+
 ![](./oVVbTLR5gXHgP8Ehlz1qzRm5LLjX9kv2Zri6.jpg)  
 ![](./YsN6twE3-4Q4OYpgxoModmx29I8zthQ3f0OR.jpg)  
 ![](./lbexLhWvRfpexSV0lSIWczkHd5KdszeDy9a3.png)  
 ![](./YIABVRTHRz58ZiT6W-emBkfNIQUHBelp8t6U.png)  
 ![](./TmSQbZOg5bxn0cRXxIrRUd2zhqeDAXTe8ni5.jpg)
+
+</center>
 
 ---
 
@@ -88,7 +103,11 @@
    3. interfaces_adapters
    4. external_interfaces
 
+<center>
+
 ![](./folderStructure.png)
+
+</center>
 
 اون باید بازتاب کنه روشی بسیار اساسی برای الگوی طراحی.
 * شروع میکنیم از entities شما میتونید ببینید که در هسته مدل این پروژه arxiv_document قرار داره
@@ -110,6 +129,8 @@
 ## منابع
 اینجا داریم برخی از مقاله های رو که میتونه کمک کنه برای درک مفهوم "معماری تمیز":  
 
+<div dir="ltr">
+
 - https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html
 - https://www.codingblocks.net/podcast/clean-architecture-make-your-architecture-scream/
 - https://github.com/mattia-battiston/clean-architecture-example
@@ -121,4 +142,8 @@
 - https://medium.freecodecamp.org/how-to-write-robust-apps-consistently-with-the-clean-architecture-9bdca93e17b
 - https://marconijr.com/posts/clean-architecture-practice/
 
+</div>
+
 ---
+
+</div>
