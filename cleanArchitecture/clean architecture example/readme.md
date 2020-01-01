@@ -1,5 +1,12 @@
+<div dir="rtl">
+
 # [مثال معماری تمیز](https://github.com/mattia-battiston/clean-architecture-example)
+
+<div dir="ltr">
+
 ###### by mattia battiston
+
+</div>
 
 این هست یک نمونه پروژه برای اینکه نشون بده معماری تمیز چیه و چه شکلی هست
 
@@ -44,8 +51,13 @@
 * **شما به منطق کاری جالب نیاز دارید** تا توجیه کنید ساختار رو. اگر تمام چیزی که انجام میدید در یک یوزکیس با متد یک خطی هست برای خوندن یا نوشتن در یک پایکاه داده ، پس شاید شما بتونید برید با یه چیز ساده تر
 
 ## ساختار برنامه
+
+<center>
+
 ![](./clean-architecture-diagram-1.png)
 ![](./clean-architecture-diagram-2.png)
+
+</center>
 
 ### هسته: موجودیت ها
 * نماینده اشیا دامنه کاری شمان
@@ -76,11 +88,21 @@
 * دارای -جزئیات کثیفیه- مثل مین کلس ، تنظیمات سرور ، تنظیمات منبع داده و ...
 
 ### مثال ها
+
+<center>
+
 ![](./example-1.png)
 ![](./example-2.png)
 
+</center>
+
 ## استراتژی تست
+
+<center>
+
 ![](./testing-strategy.png)
+
+</center>
 
 ### یونیت تستز
 * برای تی دی دی
@@ -112,6 +134,9 @@
 * به اصل مقاله مراجعه شود
   
 ## منابع
+
+<div dir="ltr">
+
 ##### Presentation
 * Real Life Clean Architecture http://www.slideshare.net/mattiabattiston/real-life-clean-architecture-61242830
 
@@ -125,3 +150,7 @@
 * Clean Coders ep. 7: Architecture, Use Cases, and High Level Design https://cleancoders.com/episode/clean-code-episode-7/show
 * Robert C. Martin - Clean Architecture https://vimeo.com/43612849
 * Robert C. Martin - Clean Architecture and Design https://www.youtube.com/watch?v=Nsjsiz2A9mg
+
+</div>
+
+</div>
