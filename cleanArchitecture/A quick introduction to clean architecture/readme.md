@@ -8,11 +8,11 @@
 
 </div>
 
-<center>
+<div align="center">
 
 ![معماری تمیز](./0_vIfjwJFIvgfyghgD.jpg)
 
-</center>
+</div>
 
 در یک پروژه اپن سورس شروع به همکاری کردم ، که در آن معماری تمیز آورده شده بود.
 
@@ -35,7 +35,7 @@
 من فکر میکنم همیشه خوبه که شروع کنیم با کمی تصویر.  
 در اینجا عمومی ترین تصویر از این مفهم آورده شده.  
 
-<center>
+<div align="center">
 
 ![](./oVVbTLR5gXHgP8Ehlz1qzRm5LLjX9kv2Zri6.jpg)  
 ![](./YsN6twE3-4Q4OYpgxoModmx29I8zthQ3f0OR.jpg)  
@@ -43,7 +43,7 @@
 ![](./YIABVRTHRz58ZiT6W-emBkfNIQUHBelp8t6U.png)  
 ![](./TmSQbZOg5bxn0cRXxIrRUd2zhqeDAXTe8ni5.jpg)
 
-</center>
+</div>
 
 ---
 
@@ -103,11 +103,11 @@
    3. interfaces_adapters
    4. external_interfaces
 
-<center>
+<div align="center">
 
 ![](./folderStructure.png)
 
-</center>
+</div>
 
 اون باید بازتاب کنه روشی بسیار اساسی برای الگوی طراحی.
 * شروع میکنیم از entities شما میتونید ببینید که در هسته مدل این پروژه arxiv_document قرار داره

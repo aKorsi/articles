@@ -52,12 +52,12 @@
 
 ## ساختار برنامه
 
-<center>
+<div align="center">
 
 ![](./clean-architecture-diagram-1.png)
 ![](./clean-architecture-diagram-2.png)
 
-</center>
+</div>
 
 ### هسته: موجودیت ها
 * نماینده اشیا دامنه کاری شمان
@@ -89,20 +89,20 @@
 
 ### مثال ها
 
-<center>
+<div align="center">
 
 ![](./example-1.png)
 ![](./example-2.png)
 
-</center>
+</div>
 
 ## استراتژی تست
 
-<center>
+<div align="center">
 
 ![](./testing-strategy.png)
 
-</center>
+</div>
 
 ### یونیت تستز
 * برای تی دی دی

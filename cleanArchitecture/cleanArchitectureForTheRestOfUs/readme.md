@@ -1,4 +1,4 @@
-<div style="direction:rtl;">
+<div dir="rtl">
 
 # [معماری تمیز برای دیگران](https://pusher.com/tutorials/clean-architecture-introduction)
 
